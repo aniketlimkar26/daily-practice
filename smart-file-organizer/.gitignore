@@ -1,0 +1,12 @@
+# Byte-compiled files
+__pycache__/
+*.pyc
+
+# Demo/test artifacts (don't commit generated junk)
+demo_mess/
+organizer.log
+.organizer_last_run.json
+
+# OS files
+.DS_Store
+Thumbs.db
