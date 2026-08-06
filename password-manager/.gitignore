@@ -1,0 +1,10 @@
+# Byte-compiled files
+__pycache__/
+*.pyc
+
+# NEVER commit your actual vault - it contains your real encrypted passwords
+vault.json
+
+# OS files
+.DS_Store
+Thumbs.db
