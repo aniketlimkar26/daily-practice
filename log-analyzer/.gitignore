@@ -1,0 +1,13 @@
+# Byte-compiled files
+__pycache__/
+*.pyc
+
+# Generated sample logs and reports (don't commit generated data)
+sample_access.log
+sample_app.log
+report.txt
+stats.json
+
+# OS files
+.DS_Store
+Thumbs.db
