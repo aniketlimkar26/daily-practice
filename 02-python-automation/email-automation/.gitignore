@@ -1,0 +1,14 @@
+# Byte-compiled files
+__pycache__/
+*.pyc
+
+# CRITICAL: never commit real credentials
+.env
+
+# Generated/log files
+email_automation.log
+contacts.csv
+
+# OS files
+.DS_Store
+Thumbs.db
